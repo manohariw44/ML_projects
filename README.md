@@ -6,4 +6,4 @@ Bank wanted to build a model to identify credit worthy customers. [ Model](https
 
 # Identify Spam emails
 
-Email inbox is filled with many unneccessory emails. It is taking users time reading unneccessory emails. we wanted to build a [ model](https://github.com/manohariw44/ML_projects/blob/main/PY002_Unsupervised_Learning_Python.ipynb) to identify Spam emails by subject heading.
+Email inbox is filled with many unneccessory emails. It is taking users time reading unneccessory emails. We wanted to build a [ model](https://github.com/manohariw44/ML_projects/blob/main/PY002_Unsupervised_Learning_Python.ipynb) to identify Spam emails by subject heading.
