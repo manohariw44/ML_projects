@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Data Science portfolio by Manohari Wijesooriya
 
 # Loan Applicants
 
