@@ -1,2 +1,4 @@
-# ML_projects
-PY001_Predictive_Model_Python_sklearn - Predictive model to select loan applicants.Python packages used - Pandas, Sklearn and Pandas profiling package Other tools used - PowerBI , R 
+# Machine Learning Projects
+
+Select Loan Applicants
+Bank wanted to build a model to identify credit worthy customers. Model is build using Python packages Pandas, Sklearn and Pandas profiling package. Other tools PowerBI and R are used in dat exploration.
