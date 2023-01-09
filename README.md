@@ -17,6 +17,7 @@ Email inbox is filled with many unneccessory emails. It is taking users time in 
 # Exploration on Emerging Risks
 
 Financial Crime 
-Reading whitepaper published by Linkurious
+
+Whitepaper published by [Linkurious] (https://resources.linkurious.com/whitepaper/fighting-financial-crime-graph-analytics?campaignid=13824063997&adgroupid=136920583325&adid=608752965829&utm_term=financial%20crime%20analytics&utm_campaign=Fincrime+activation+-+North+America&utm_source=adwords&utm_medium=ppc&hsa_acc=1443437307&hsa_cam=13824063997&hsa_grp=136920583325&hsa_ad=608752965829&hsa_src=g&hsa_tgt=kwd-309218531511&hsa_kw=financial%20crime%20analytics&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAk--dBhABEiwAchIwkadnGtzgKlgccsWy_uU-Gg9K1oGOygv_HY50pOYCNMydkJZmUoww6RoCRSQQAvD_BwE)
 Fighting financial crime with graph analytics – How to accelerate investigations and stop more fraud and money laundering
 
