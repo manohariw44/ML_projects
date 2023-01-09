@@ -18,6 +18,6 @@ Email inbox is filled with many unneccessory emails. It is taking users time in 
 
 Financial Crime 
 
-Whitepaper published by [Linkurious] (https://resources.linkurious.com/whitepaper/fighting-financial-crime-graph-analytics?)
+Whitepaper published by [Linkurious] (https://resources.linkurious.com/whitepaper/fighting-financial-crime-graph-analytics)
 Fighting financial crime with graph analytics – How to accelerate investigations and stop more fraud and money laundering
 
