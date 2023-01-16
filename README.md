@@ -10,7 +10,7 @@ Email inbox is filled with many unneccessory emails. It is taking users time in 
 
 # Descriptive Statistics
 
-[How effiecient was the call centre in 2021? / Global Expansion ] (https://github.com/manohariw44/ML_projects/blob/main/Histogram.xlsx)
+[How effiecient was the call centre in 2021? / Global Expansion ](https://github.com/manohariw44/ML_projects/blob/main/Histogram.xlsx)
 
 
 # Learning outcomes
