@@ -14,7 +14,7 @@ Email inbox is filled with many unneccessory emails. It is taking users time in 
 
 # Analys survey Data
 
-[Questionnaires and Surveys: Analyses with R] 
+[Questionnaires and Surveys: Analyses with R] (https://github.com/manohariw44/ML_projects/blob/main/R_001_Survey_Data_Analyses.ipynb)
 
 # Learning outcomes
 
