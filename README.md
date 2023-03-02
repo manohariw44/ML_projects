@@ -24,9 +24,9 @@ Excel Dashboard - [E commerce Data](https://github.com/manohariw44/ML_projects/b
 
 ### Python 
 
-[Data Wrangling, Data Normalisation] (https://github.com/manohariw44/ML_projects/blob/a57e394024ade04a66c362d66977d9a198a3d790/Python-Data-Wrangling-Data-Normalisation.ipynb)
+[Data Wrangling, Data Normalisation](https://github.com/manohariw44/ML_projects/blob/a57e394024ade04a66c362d66977d9a198a3d790/Python-Data-Wrangling-Data-Normalisation.ipynb)
 
-[##SQL](https://courses.torontomu.ca/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=26075&pageId=0&contextId=26075)
+### [SQL](https://courses.torontomu.ca/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=26075&pageId=0&contextId=26075)
 
 ### [Microsoft Office Access](https://softwarekeep.com/help-center/microsoft-office-access-cheat)
 
