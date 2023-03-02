@@ -22,6 +22,10 @@ Excel Dashboard - [E commerce Data](https://github.com/manohariw44/ML_projects/b
 
 # Learning outcomes
 
+##Python
+
+[Data Wrangling, Data Normalisation]
+
 [SQL](https://courses.torontomu.ca/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=26075&pageId=0&contextId=26075)
 
 [Microsoft Office Access](https://softwarekeep.com/help-center/microsoft-office-access-cheat)
