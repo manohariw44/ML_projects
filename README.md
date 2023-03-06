@@ -32,7 +32,7 @@ Excel Dashboard - [E commerce Data](https://github.com/manohariw44/ML_projects/b
 
 ### Excel
 
-[Data Analysis using Statistics](  )
+[Data Analysis using Statistics](https://github.com/manohariw44/ML_projects/blob/2d130c665fa4812bd2cd5e29e20bdee4df4b3a34/Excel_Data_Analysis_using_Statistics.xlsx)
 
 # Reading
 
