@@ -4,7 +4,9 @@
 
 Bank wanted to build a model to identify credit worthy customers. [ Model](https://github.com/manohariw44/ML_projects/blob/5e9504e10f49ea8410addc0daf5b56ba8588052b/PY001_Predictive_Model_Python_sklearn.ipynb) is build using Python packages Pandas, Sklearn and Pandas profiling package. Other tools Tableau and R are used in data exploration. [Presentation](https://courses.torontomu.ca/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=26045&pageId=0&contextId=26045)
 
-# [Predict Resturant tips using Excel](https://github.com/manohariw44/ML_projects/blob/a2a40c5832939c8f0841cfe58988305d12a97dbb/Excel002_Restaurant%20tips%20dataset.xlsx)
+# [Predict Resturant tips using Excel]
+Resturant owner needs to know what variables drive tip amount. This is an Excel base [model](https://github.com/manohariw44/ML_projects/blob/a2a40c5832939c8f0841cfe58988305d12a97dbb/Excel002_Restaurant%20tips%20dataset.xlsx) to predict tip amount.
+
 
 # Identify Spam emails
 
