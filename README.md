@@ -4,6 +4,8 @@
 
 Bank wanted to build a model to identify credit worthy customers. [ Model](https://github.com/manohariw44/ML_projects/blob/5e9504e10f49ea8410addc0daf5b56ba8588052b/PY001_Predictive_Model_Python_sklearn.ipynb) is build using Python packages Pandas, Sklearn and Pandas profiling package. Other tools Tableau and R are used in data exploration. [Presentation](https://courses.torontomu.ca/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=26045&pageId=0&contextId=26045)
 
+# [Predict Resturant tips using Excel](https://github.com/manohariw44/ML_projects/blob/a2a40c5832939c8f0841cfe58988305d12a97dbb/Excel002_Restaurant%20tips%20dataset.xlsx)
+
 # Identify Spam emails
 
 Email inbox is filled with many unneccessory emails. It is taking users time in reading reading those. We wanted to build a [ model](https://github.com/manohariw44/ML_projects/blob/main/PY002_Unsupervised_Learning_Python.ipynb) to identify Spam emails by subject heading.
@@ -19,6 +21,8 @@ Analyse Survey Data - [Questionnaires and Surveys: Analyses with R](https://gith
 [Business analysis with Excel / How effiecient was the call centre in 2021? / Global Expansion](https://github.com/manohariw44/ML_projects/blob/5534b27090f52853856ba906f5877ee12706bf43/Business_Analysis_with_Excel.xlsx)
 
 Excel Dashboard - [E commerce Data](https://github.com/manohariw44/ML_projects/blob/4cd5537cc1b851ce62a1371d1013bef970fcbdb6/E%20Commerce%20Dashboard%20Project.xlsx)
+
+
 
 # Learning outcomes
 
