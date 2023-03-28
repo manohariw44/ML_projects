@@ -30,7 +30,7 @@ Excel Dashboard - [E commerce Data](https://github.com/manohariw44/ML_projects/b
 
 [Retail Mart Management](SQL001_Retail_Mart_Management.pdf)
 
-[School Ranking analysis](SQL001_School_Ranking_Analysis.pdf)
+[School Ranking analysis](SQL002_School_Ranking_Analysis.pdf)
 
 
 # Learning outcomes
