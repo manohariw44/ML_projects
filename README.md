@@ -28,7 +28,7 @@ Excel Dashboard - [E commerce Data](https://github.com/manohariw44/ML_projects/b
 
 ### SQL
 
-Retail Mart Management
+[Retail Mart Management](SQL001_Retail_Mart_Management)
 School Ranking analysis
 
 
