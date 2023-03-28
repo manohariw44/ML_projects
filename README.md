@@ -24,6 +24,12 @@ Analyse Survey Data - [Questionnaires and Surveys: Analyses with R](https://gith
 
 Excel Dashboard - [E commerce Data](https://github.com/manohariw44/ML_projects/blob/4cd5537cc1b851ce62a1371d1013bef970fcbdb6/E%20Commerce%20Dashboard%20Project.xlsx)
 
+# Database Management
+
+### SQL
+
+Retail Mart Management
+School Ranking analysis
 
 
 # Learning outcomes
