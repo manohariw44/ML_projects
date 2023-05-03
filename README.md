@@ -32,6 +32,7 @@ Excel Dashboard - [E commerce Data](https://github.com/manohariw44/ML_projects/b
 
 [School Ranking analysis](SQL002_School_Ranking_Analysis.pdf)
 
+[Air Cargo Data Analysis](https://github.com/manohariw44/ML_projects/blob/0301c9247b66cf868ed33c169e71df7930780151/SQL003_Air_Cargo_Data_Analysis.pdf)
 
 # Learning outcomes
 
