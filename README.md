@@ -5,7 +5,7 @@
 Bank wanted to build a model to identify credit worthy customers. [ Model](https://github.com/manohariw44/ML_projects/blob/952b1bf9ff8e5f32c498840e3911799e7557a3a1/PY001_Predictive_Model_Python_sklearn%20(1).ipynb) is build using Python packages Pandas, Sklearn and Pandas profiling package. Other tools Tableau and R are used in data exploration. [Presentation](https://courses.torontomu.ca/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=26045&pageId=0&contextId=26045)
 
 # Predict Resturant tips 
-Resturant owner needs to know what variables drive tip amount. This is an Excel base [model](https://github.com/manohariw44/ML_projects/blob/8d9779cdc6aa64d48178cf1d149b222ae95617ad/Excel002_Predict%20Restaurant%20tips.xlsx) to predict tip amount. [analysis report](https://github.com/manohariw44/ML_projects/blob/d9a7986e7663e0565fa1ae531229f30c4bd282ba/Excel002_Resturant%20tips.docx)
+Resturant owner needs to know what variables drive tip amount. This is an Excel base [model](https://github.com/manohariw44/ML_projects/blob/8d9779cdc6aa64d48178cf1d149b222ae95617ad/Excel002_Predict%20Restaurant%20tips.xlsx) to predict tip amount. [analysis report](https://github.com/manohariw44/ML_projects/blob/4736a3795607190b097ef883adb8b3d064e3d242/Excel002_Resturant%20tips.pdf)
 
 # Multilabel Classification Model Predicting Shipment Modes
 Choosing the appropriate mode of transport for each shipment can significantly affect the delivery time, cost, and safety of the goods being transported. [Model Predicting shipment modes](https://github.com/manohariw44/ML_projects/blob/ec777ef282b4682b46e6560ef1369dd54c3e41be/BigQuery_001_Multilabel_classification.ipynb)
