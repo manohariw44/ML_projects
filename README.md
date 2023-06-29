@@ -24,7 +24,7 @@ Analyse Survey Data - [Questionnaires and Surveys: Analyses with R](https://gith
 
 [Business analysis with Excel / How effiecient was the call centre in 2021? / Global Expansion](https://github.com/manohariw44/ML_projects/blob/5534b27090f52853856ba906f5877ee12706bf43/Business_Analysis_with_Excel.xlsx)
 
-Excel Dashboard - E commerce Data [Excel]() [pdf]()
+Excel Dashboard - E commerce Data [Excel](https://github.com/manohariw44/ML_projects/blob/77c2816ca5173da659d0876d47d095023e212b49/E%20Commerce%20Dashboard%20Project.xlsx) [pdf]()
 
 # Database Management
 
