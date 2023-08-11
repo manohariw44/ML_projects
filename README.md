@@ -8,7 +8,7 @@ Bank wanted to build a model to identify credit worthy customers. [ Model](https
 Resturant owner needs to know what variables drive tip amount. This is an Excel base [model](https://github.com/manohariw44/ML_projects/blob/8d9779cdc6aa64d48178cf1d149b222ae95617ad/Excel002_Predict%20Restaurant%20tips.xlsx) to predict tip amount. [analysis report](https://github.com/manohariw44/ML_projects/blob/4736a3795607190b097ef883adb8b3d064e3d242/Excel002_Resturant%20tips.pdf)
 
 # Multilabel Classification Model Predicting Shipment Modes
-Choosing the appropriate mode of transport for each shipment can significantly affect the delivery time, cost, and safety of the goods being transported. [Model Predicting shipment modes](https://github.com/manohariw44/ML_projects/blob/ec777ef282b4682b46e6560ef1369dd54c3e41be/BigQuery_001_Multilabel_classification.ipynb)
+Choosing the appropriate mode of transport for each shipment can significantly affect the delivery time, cost, and safety of the goods being transported. [https://github.com/manohariw44/ML_projects/blob/df9299287f12173023f61a4153b4c0b436679211/Big_Query_001/BigQuery_001_Multilabel_classification.ipynb]
 
 # Identify Spam emails
 
