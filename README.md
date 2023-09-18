@@ -36,6 +36,13 @@ Excel Dashboard - E commerce Data [Excel](https://github.com/manohariw44/ML_proj
 
 [Air Cargo Data Analysis](https://github.com/manohariw44/ML_projects/blob/0301c9247b66cf868ed33c169e71df7930780151/SQL003_Air_Cargo_Data_Analysis.pdf)
 
+# Business Analysis
+
+Library Management System for Stanford (Business Analysis, ER Diagram, Data flow diagram, wireframes ...)
+
+
+
+
 # Learning outcomes
 
 ### Python 
