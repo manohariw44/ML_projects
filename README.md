@@ -38,7 +38,7 @@ Excel Dashboard - E commerce Data [Excel](https://github.com/manohariw44/ML_proj
 
 # Business Analysis
 
-[Library Management System for Stanford] (Business analysis, ER diagram, dataflow diagram, wireframes, ...)
+[Library Management System for Stanford] (https://github.com/manohariw44/ML_projects/blob/8956b9cf47fef6dad7ab67b8ea4e8961e03c310f/BA_Project1_Stanford_Library.pdf) (Business analysis, ER diagram, dataflow diagram, wireframes, ...)
 
 
 
