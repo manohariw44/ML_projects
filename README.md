@@ -18,7 +18,7 @@ Email inbox is filled with many unneccessory emails. It is taking users time in 
 
 use Allstate insurance claims data and develop [GBM model](https://github.com/manohariw44/ML_projects/blob/c87bed894db12619c5be5a0e93a38f29a7cfd2a7/Python/All_State_Insurance_Claim_Severity_Prediction.ipynb) to predict claim cost
 
-# Insurance pricing forecast using XGBoost model 
+# Insurance pricing forecast using [XGBoost model](https://github.com/manohariw44/ML_projects/blob/3526933ccb90ac23089f459f09f35dcfeee64890/Python/insurance_pricing_forecast.ipynb) 
 
 Analyze healthcare data, prepare univariate, bi variate data analysis, label categorical data, implement linear regression, use BayesSearchCV for XGBoost hyperparameter optimization; programming in Python
 
