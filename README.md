@@ -14,6 +14,14 @@ Choosing the appropriate mode of transport for each shipment can significantly a
 
 Email inbox is filled with many unneccessory emails. It is taking users time in reading reading those. We wanted to build a [ model](https://github.com/manohariw44/ML_projects/blob/main/PY002_Unsupervised_Learning_Python.ipynb) to identify Spam emails by subject heading.
 
+# Loss cost predictive model
+
+use Allstate insurance claims data and develop GBM model to predict claim cost
+
+# Insurance pricing forecast using XGBoost model 
+
+Analyze healthcare data, prepare univariate, bi variate data analysis, label categorical data, implement linear regression, use BayesSearchCV for XGBoost hyperparameter optimization; programming in Python
+
 # Descriptive Statistics / Visualisations
 
 ### R
